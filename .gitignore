@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.DS_Store
+.idea/
+.vscode/
+
+# Project specific
+.docs/
+data/
+keycloak_data/
+log.txt
+duckdb_polaris.db
+duckdb_polaris.db.wal
+.env
